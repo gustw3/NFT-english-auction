@@ -1,0 +1,5 @@
+Todo:
+ - Improve the UX & add wallet connect
+ - Add tx events in the smart contract to get the logs easy
+ - Develop test for the ERC721
+ - Create a factory & admin ui
