@@ -120,17 +120,6 @@ describe('Tests Auction', function () {
       await expect(contractBalance).to.equal(0);
 
     })
-
-
-
-         // should not end if not started
-     // should not end if not ended
-     // should not end if !ended
-     // should set end to true
-     // should transfer NFT if there is a highest bidder
-     // should transfer the bid to the seller
-     // if no bidder should transfer the nft ti tge seller
-     // should emit an event
 })
 
 
